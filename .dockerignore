@@ -1,0 +1,14 @@
+.git
+.env
+.env.*
+.venv
+**/__pycache__
+**/.pytest_cache
+**/*.pem
+**/*.key
+**/id_rsa*
+**/id_ed25519*
+secrets/
+docs/
+tests/
+*.zip
