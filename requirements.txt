@@ -1,0 +1,7 @@
+Flask>=3.1,<4
+PyJWT>=2.10,<3
+PyMySQL>=1.1,<2
+cryptography>=44
+Gunicorn>=23,<24
+python-dotenv>=1,<2
+pytest>=8,<10
